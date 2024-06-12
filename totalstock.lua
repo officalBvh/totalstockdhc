@@ -84,6 +84,8 @@ local alt8 = Players:FindFirstChild(getgenv().Alts.alt8)
 local alt9 = Players:FindFirstChild(getgenv().Alts.alt9)
 local alt10 = Players:FindFirstChild(getgenv().Alts.alt10)
 
+
+
 local alt1currency = alt1:WaitForChild("DataFolder").Currency
 local alt2currency = alt2:WaitForChild("DataFolder").Currency
 local alt3currency = alt3:WaitForChild("DataFolder").Currency
