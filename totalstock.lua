@@ -1,15 +1,4 @@
-getgenv().Alts = {
-    alt1 = "HermesDHC1",
-    alt2 = "HermesDHC2",
-    alt3 = "HermesDHC3",
-    alt4 = "HermesDHC4",
-    alt5 = "HermesDHC5",
-    alt6 = "HermesDHC6",
-    alt7 = "HermesDHC7",
-    alt8 = "HermesDHC8",
-    alt9 = "HermesDHC9",
-    alt10 = "HermesDHC10",
-}
+
 
 -- Gui to Lua
 -- Version: 3.2
